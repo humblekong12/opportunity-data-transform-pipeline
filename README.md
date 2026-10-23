@@ -49,7 +49,6 @@ The dataset optimization metrics speak directly to its analytical preparedness:
 
 ---
 
-## 🚀 How to Utilize This Asset
-1.  Review the source dataset definitions inside the `data_dictionary.md`.
-2.  Inspect the structural data cleanliness inside `cleaned_opportunities.csv`.
-3.  Ingest the analytical file layer straight into Google Sheets, Microsoft Excel, PowerBI, Tableau, or python scripts to build interactive dashboard trackers.
+## 📂 Project Assets & Deliverables
+*   📥 **[Download Final Internship Case Study Report (PDF)](./project_deliverable_report.pdf)** — The complete executive deliverable summarizing dashboard architectures and visual analytics models deployed during my internship.
+*   *   🗂️ **[Browse Cleaned Workspace Folder (opportunity_Data_Cleaned_and_Dictionary)](./)** — Access the unified technical code environment, transformation maps, and structured analytical documentation layers.
