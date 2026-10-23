@@ -50,5 +50,5 @@ The dataset optimization metrics speak directly to its analytical preparedness:
 ---
 
 ## 📂 Project Assets & Deliverables
-*   📥 **[Download Final Internship Case Study Report (PDF)](./project_deliverable_report.pdf)** — The complete executive deliverable summarizing dashboard architectures and visual analytics models deployed during my internship.
+*   📥 **[Download Final Internship Case Study Report (PDF)](./Week 1 - Anderson Edaiyo Uzezi - Data Understanding & Preparation Package 1.pdf)** — The complete executive deliverable summarizing dashboard architectures and visual analytics models deployed during my internship.
 *   *   🗂️ **[Browse Cleaned Workspace Folder (opportunity_Data_Cleaned_and_Dictionary)](./)** — Access the unified technical code environment, transformation maps, and structured analytical documentation layers.
